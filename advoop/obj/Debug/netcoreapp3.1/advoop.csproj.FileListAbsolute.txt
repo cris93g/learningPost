@@ -1,0 +1,13 @@
+C:\Users\Mine\source\repos\advoop\advoop\bin\Debug\netcoreapp3.1\advoop.exe
+C:\Users\Mine\source\repos\advoop\advoop\bin\Debug\netcoreapp3.1\advoop.deps.json
+C:\Users\Mine\source\repos\advoop\advoop\bin\Debug\netcoreapp3.1\advoop.runtimeconfig.json
+C:\Users\Mine\source\repos\advoop\advoop\bin\Debug\netcoreapp3.1\advoop.runtimeconfig.dev.json
+C:\Users\Mine\source\repos\advoop\advoop\bin\Debug\netcoreapp3.1\advoop.dll
+C:\Users\Mine\source\repos\advoop\advoop\bin\Debug\netcoreapp3.1\advoop.pdb
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.csprojAssemblyReference.cache
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.AssemblyInfoInputs.cache
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.AssemblyInfo.cs
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.csproj.CoreCompileInputs.cache
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.dll
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.pdb
+C:\Users\Mine\source\repos\advoop\advoop\obj\Debug\netcoreapp3.1\advoop.genruntimeconfig.cache
